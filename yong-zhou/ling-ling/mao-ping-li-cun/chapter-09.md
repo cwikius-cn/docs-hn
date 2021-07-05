@@ -17,7 +17,7 @@
 
 将继续扩大药村种植面积，不仅租给外地有技术的人种药材，我们也跟着学技术，自己也种，形成药材种植规模化。
 
-![女贞子药材|690x398]https://cdn.ossez.com/discourse-uploads/original/2X/6/67f54267b5dda557162325147957b1797fca6be3.jpeg ':size=690')
+![女贞子药材|690x398](https://cdn.ossez.com/discourse-uploads/original/2X/6/67f54267b5dda557162325147957b1797fca6be3.jpeg ':size=690')
 
 
 ## 用材林种植扩大
