@@ -1,18 +1,23 @@
-# CWIKIUS 文档和手册
+# CWIKIUS.CN
 
-欢迎来到 CWIKIUS 文档和手册的空间
+欢迎来到 CWIKIUS.CN 文档。
 
-GitHub 上有关 CWIKIUS 的项目：[https://github.com/cwiki-us-docs/cwikius-docs](https://github.com/cwiki-us-docs/cwikius-docs)
+CWIKIUS.CN 文档主要用于对近期考察的项目形成相关论文和概述的相关整理。
 
+我们采用了 MD 的文件格式来对段落和内容进行部署，所有考察成果都可以在 GitHub 网站上查询得到。
 
-如果您有兴趣参与我们的小组和项目，请使用下面的联系方式和我们联系：
+我们尽量避免错别字和不正确的信息，因此我们进行了非常详实的考察和整理，但还有可能不够全面。如您发现我们的内容中存在错别字或者谬误的地方，您可以 Fork 我们仓库后修改创建 PR。
+
+## 源文件
+GitHub 上有关 CWIKIUS.CN 的项目：[https://github.com/cwikius-cn/docs-hn](https://github.com/cwikius-cn/docs-hn)。
+
+您需要有一定的计算机知识才能完成 PR 的操作，如您不具备计算机版本控制或协同工作的相关知识，请使用下面的联系方式和我们联系：
 
 | 联系方式名称  | 联系方式  |
 |---|---|
-| 电子邮件  | [service@ossez.com](mailto:service@ossez.com)  |
-| QQ 或微信  | 103899765  |
-| QQ 交流群 Spring | 15186112 |
-| 社区论坛 | [https://www.ossez.com/](https://www.ossez.com/) |
+| 电子邮件  | [yucheng.hu@cwikius.cn](mailto:yucheng.hu@cwikius.cn)  |
+| 微信和QQ 同号  | 103899765  |
+| 社区论坛 | [https://www.ossez.com/c/us/travel/11](https://www.ossez.com/c/us/travel/11) |
 
 ## 公众平台
 我们建议您通过社区论坛来和我们进行沟通，请关注我们公众平台上的账号
@@ -26,19 +31,5 @@ GitHub 上有关 CWIKIUS 的项目：[https://github.com/cwiki-us-docs/cwikius-d
 ![](https://cdn.ossez.com/img/cwikius/cwikus-qr-toutiao.png)
 
 
-## CWIKIUS 文档和手册快速导航
-
-在下面的表格中，我们列出了一些比较有用的 CWIKIUS 相关软件开发使用教程的导航，在我们文档的整理中，也参考了一些这些文档。
-
-在这里对原作者表示感谢。
-
-| 网站名称  | URL  | NOTE  |
-|---|---|---|
-| [github.io](https://cwiki-us-docs.github.io/cwikius-docs/#/)  | [https://cwiki-us-docs.github.io/cwikius-docs/#/](https://cwiki-us-docs.github.io/cwikius-docs/#/)  | 本手册的编译版本将会部署在这个链接上  |
-| WWW.CWIKIUS.CN  | [http://www.cwikius.cn/](http://www.cwikius.cn/)  | CWIKIUS.CN 一个有独立思考和温度的清新站  |
-
-### 容器 docker
-| 网站名称  | URL  | NOTE  |
-|---|---|---|
-| Docker 手册中译在线版 | https://docker.ossez.com/  | 基于 Docker 容器英文手册的翻译版本|
-| Docker 手册中译 MD 在线版  | https://docker-docs.ossez.com/  | 因为 Docker 的官方手册进行了渲染，我们推荐你使用上面的链接，这个版本为 docsify 渲染版本，可能会丢格式   |
+## 关于 CWIKIUS.CN 
+致力于对相关文化内容进行整理和传播。
