@@ -3,3 +3,5 @@
 [chapter 01](chapter-01.md ':include')
 
 [chapter 02](chapter-02.md ':include')
+
+[chapter 03](chapter-03.md ':include')
