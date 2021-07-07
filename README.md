@@ -1,6 +1,6 @@
 # CWIKIUS.CN
 
-欢迎来到 CWIKIUS.CN 文档。
+欢迎来到 CWIKIUS.CN 文档，请访问 [https://docs-hn.cwikius.cn/](https://docs-hn.cwikius.cn/#/) 上的在线部署版本
 
 CWIKIUS.CN 文档主要用于对近期考察的项目形成相关论文和概述的相关整理。
 
