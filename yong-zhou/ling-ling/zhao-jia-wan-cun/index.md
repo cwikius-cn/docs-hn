@@ -13,3 +13,7 @@
 [chapter 06](chapter-06.md ':include')
 
 [chapter 07](chapter-07.md ':include')
+
+[chapter 08](chapter-08.md ':include')
+
+[chapter 09](chapter-09.md ':include')
