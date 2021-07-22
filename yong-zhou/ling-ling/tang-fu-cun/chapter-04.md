@@ -10,7 +10,7 @@
 
 主要体现在以下几个方面；一是村落朝向，选择坐东朝西，其中有深刻含义的。村人对我说：传说他们的始祖在此立村，村落坐东朝西，东是每天太阳升起的地方，村落面对东方，就是面对光明。村后是石头山，坚如磐石。说明靠山很硬，对村落发展很有好处。二是依山就势建居屋，从低到高，自下而上，阶梯式建民居，体现了水往低处人往高处的世俗思想。居民一栋高于一栋，村落有立体感，凸显出村落雄伟壮观。
 
-![村巷道居屋照|690x459](upload://uwx8bPb9OZfkhIHE868OhVOcJsk.jpeg)
+![村巷道居屋照|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/d/d5eeb56971e34906fdc76c50429c3f36b7859570.jpeg ':size=690')
 
 
 三是横纵拓展，村前以水塘西为一横线作前栋前基准线，以此后推，不得逾越此线。纵就是以村中巷道为纵中轴线，沿巷道两侧建民居，以此类推。以同势拓展。“坐东朝西”，“依山就势”、“横纵拓展”这就是塘付村传统建筑布局特色。
@@ -26,19 +26,19 @@
 
 石块是当地天然山石，经石匠取凿运回，用于室内天井、门槛、墙基、巷道、排水沟；
 
-![石外墙照|690x459](upload://1zoYTZXrCMkoGLf4F1uio0USJRB.jpeg)
+![石外墙照|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/0/0b02acad69cfd4a11c22bda2c3f2a3c63626217f.jpeg ':size=690')
 
 
 砖瓦是匠工手工制作入土窑，用山里柴木烧几天几夜，坚硬度强。砖用于民居墙体建筑。
 
-![外墙照|690x459](upload://odYQcElN3dDcaWu4bejkfDEi0IT.jpeg)
+![外墙照|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/0/0b02acad69cfd4a11c22bda2c3f2a3c63626217f.jpeg ':size=690')
 
 
 瓦盖在屋顶上，砖墙有防火作用,日晒雨淋，霜打冰冻永不褪色。瓦起挡雨防风作用。木用于民居内部建筑，一种是杉木，一种是野木（也叫杂木），杉木用作梁柱、木壁、卷棚、木窗。
 
 野木用作室内雕刻装饰，结构受力处。
 
-![木梁柱照|690x459](upload://l96oeEqtAP8Pu2tu3u3kXCeRf1y.jpeg)
+![木梁柱照|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/9/943514b532471ded8664c29dd95c17a15af9cad4.jpeg ':size=690')
 
 
 泥土用于窗外檐上泥塑。灰有草灰、石灰两种，与糯米浆搅拌成糊浆状，用于墙体砖块之间结构，不仅凝固性强，而且久凝不脱落。与墙砖颜色比较接近，带银灰色，使墙面有一种统一美。墨色在传统民居建筑中，主要起作装饰作用。
@@ -54,7 +54,7 @@
 
 如居主为唐永田家人住宅，据零陵区文物部门2018年8月《第五批传统村落调查推荐表》称，该民居系明代传统民居建筑，也是该村唯一由文物部门确定的明代传统民居建筑，
 
-![古宅照|690x459](upload://rsSVqQni7yWLlOJOvCMnYwXt45f.jpeg)
+![古宅照|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/c/c07e9b2001d27f7dbb1071092effb4b0924b4e9d.jpeg ':size=690')
 
 
 占地面积190平方米，建筑面积310平方米。砖木结构建筑，两层，6间居房，坐东朝西，依山而建，前低后高，“干枝式”构造，四面反水天井，木葫芦阁楼，沿内墙固定木板梯直入阁楼。
@@ -67,7 +67,7 @@
 
 唐只音居屋，建于清代早中期。该民居为一栋两赋予连体建筑，依山而建，下低上高，上下二屋均为二层，两堂屋，厢房无楼层。1米为青石块的天井，三面排水沟，天井四面反水，
 
-![天井照|690x459](upload://bzdMPveBgjnJYkM9cSTLEtL46Qt.jpeg)
+![天井照|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/5/51133069bae98eb4083eeb0a1e6346f8318f737d.jpeg ':size=690')
 
 
 天井前装有活动木门（也叫屏门、屏风），装上木门两屋各成一体，空间很大，比较气派。居主说：古时，中间木门平时一般不卸，只有办大事时才卸。
@@ -76,7 +76,7 @@
 
 好在外墙依旧，门头泥塑、绘画、码头墙损毁不大，室内雀替、木门、厢房临天井的绦环板等各种精美雕刻仍在。
 
-![门头字壁照|690x471](upload://6nsxQLUbA9nVnuTNr1qCmMxv0UZ.jpeg)
+![门头字壁照|690x471]https://cdn.ossez.com/discourse-uploads/original/2X/2/2cb3f2bea81aaf4a83eebd70e8bddc2c9c509c65.jpeg)
 
 
 从唐只音家出来，又过日子一栋传统民居，居主东指西点，呜哩哇啦不知在说什么。一位村民告诉我：他是哑巴，不是民居主人，住在这里给主人守居屋的。
@@ -87,19 +87,19 @@
 
 照墙正中有一“福”字，字体面积较大，墨迹有些模糊，估计建民居时书写上去的。
 
-![福字照墙照|690x459](upload://7V0voNUmcCdWLuq2E3GkMxc3SxI.jpeg)
+![福字照墙照|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/3/3780efcabad3227771a7983a5bd4b042e816228a.jpeg ':size=690')
 
 
 天井由3块大平整青石铺就，3面下水沟。天井长3.7米，宽5.7米，呈长方形，沟面宽50厘米，深40cm。中堂长4.7米，宽4.09米，民居过道长11.87米。宽1.74米。
 
 中柱高6.4米，天井为四面反水，也叫四水归堂。
 
-![四水归堂照|690x410](upload://DRwQWImQnSjhbpQeFoDO0C4MTr.jpeg)
+![四水归堂照|690x410](https://cdn.ossez.com/discourse-uploads/original/2X/e/eac6be5b7991f34e06d5cfadafc5c87490d4ea01.jpeg ':size=690')
 
 
 中堂后木壁后主悬挂着一块长方形“德辉谟烈”老红色匾额，题有“恭祝唐府翁三先生九十开一、暨令燕郎六十晋一鼎建志庆”，落款时间是“大清同治三年甲子岁吉日”，从字里可以看出，这匾既是居宅主人翁三先生八十岁生日及其儿子六十一岁生日，也是该民居落成庆典之日，断定该民居为清末期同治三年（1865年）所建，清代晚期传统民居建筑。
 
-![匾照|690x459](upload://xuVx7EneS7CvrrHdAfc8FMEKfuN.jpeg)
+![匾照|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/e/eac6be5b7991f34e06d5cfadafc5c87490d4ea01.jpeg ':size=690')
 
 
 该民居占地面积190平方米，建筑面积360平方米，为二层木楼民居，有7间卧房，中堂没有楼层，天井、厢房地势低，中堂地势高于天井厢房。
@@ -126,28 +126,28 @@
 
 山墙外窗。上有花卉图案，下有“和”、“平”字，两字方正。
 
-![和平窗照|690x459](upload://ogwnikKGJp3fRBypmakWVnZquC4.jpeg)
+![和平窗照|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/a/aa124c957e4d27a8ad0463038355b2a0a51daf10.jpeg ':size=690')
 
 绦环板上的木浮雕，各种花纹勾连图案，雕刻精美。
 
-![Picture16|690x459](upload://uHX6S9EBxGjVRiJuIGICqiFW9JM.jpeg)
+![Picture16|690x459](https://cdn.ossez.com/discourse-uploads/original/2X/d/d73927c349547d2e1e68134457ffeab876693a3a.jpeg ':size=690')
 
 
 天井两侧厢房变形图案有凹有凸，有动有静，有阴有阳。天井前的照墙绘画装饰楚楚动人，石水缸装饰美伦美奂。
 
-![Picture17|681x500](upload://ynYDFiEl7GMiD1GigOruWJVVWD0.jpeg)
+![Picture17|681x500](https://cdn.ossez.com/discourse-uploads/original/2X/f/f0ffcc8c73412294d63be8b9766da8cbd3c75a02.jpeg ':size=680')
 
 
 门上户对荷花型，刻八卦图案，门上窗的“回”字纹勾连，雕花草图纹，卯榫结构的相嵌，其图案精美，建造艺术精细，无不是民间工匠师的精心艺术之作。塘付村的传统建筑装饰艺术可以看出，中国传统民间建筑艺术的博大精深，中华文明的古老底蕴，塘付村先祖们的文化修养。
 
-![Picture18|626x500](upload://5NWs71HXAgsSBvG9QCJM8IFYLtP.jpeg)
+![Picture18|626x500](https://cdn.ossez.com/discourse-uploads/optimized/2X/2/28b021058fde1cd53c7c6ade07af88d2dee0f325_2_626x500.jpeg ':size=620')
 
 
 塘付村的传统建筑除了村落布局、建筑用材、民居建造、民居装饰与众不同，别具特色外，村台阶式巷道，有的在自然固定石上凿就。
 
-![石凿巷道台阶照|333x500](upload://zllasCJuhN3vPgflZPUDPMuepVq.jpeg)
+![石凿巷道台阶照|333x500](https://cdn.ossez.com/discourse-uploads/optimized/2X/f/f7b5ac66223265d9f3d91f515eef2dfd04acc1fc_2_333x500.jpeg ':size=330')
 
 
 有的村排水沟在自然石上凿成沟排水，充分利用自然条件，这是塘付村传统建筑独有特色。
 
-![石排水沟照|333x500](upload://yA3JJsm6oYmRZumrCdJpwBak84M.jpeg)
+![石排水沟照|333x500](https://cdn.ossez.com/discourse-uploads/optimized/2X/f/f25d701a648fc9a3fd4a45c753d16435d4202328_2_333x500.jpeg ':size=330')
