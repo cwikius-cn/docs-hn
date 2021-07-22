@@ -76,7 +76,7 @@
 
 好在外墙依旧，门头泥塑、绘画、码头墙损毁不大，室内雀替、木门、厢房临天井的绦环板等各种精美雕刻仍在。
 
-![门头字壁照|690x471]https://cdn.ossez.com/discourse-uploads/original/2X/2/2cb3f2bea81aaf4a83eebd70e8bddc2c9c509c65.jpeg)
+![门头字壁照|690x471](https://cdn.ossez.com/discourse-uploads/original/2X/2/2cb3f2bea81aaf4a83eebd70e8bddc2c9c509c65.jpeg  ':size=690')
 
 
 从唐只音家出来，又过日子一栋传统民居，居主东指西点，呜哩哇啦不知在说什么。一位村民告诉我：他是哑巴，不是民居主人，住在这里给主人守居屋的。
@@ -94,7 +94,7 @@
 
 中柱高6.4米，天井为四面反水，也叫四水归堂。
 
-![四水归堂照|690x410](https://cdn.ossez.com/discourse-uploads/original/2X/e/eac6be5b7991f34e06d5cfadafc5c87490d4ea01.jpeg ':size=690')
+![四水归堂照|690x410](https://cdn.ossez.com/discourse-uploads/optimized/2X/0/04819405294c11e1f22080e698b6c9a8e4f8736d_2_690x410.jpeg ':size=690')
 
 
 中堂后木壁后主悬挂着一块长方形“德辉谟烈”老红色匾额，题有“恭祝唐府翁三先生九十开一、暨令燕郎六十晋一鼎建志庆”，落款时间是“大清同治三年甲子岁吉日”，从字里可以看出，这匾既是居宅主人翁三先生八十岁生日及其儿子六十一岁生日，也是该民居落成庆典之日，断定该民居为清末期同治三年（1865年）所建，清代晚期传统民居建筑。
