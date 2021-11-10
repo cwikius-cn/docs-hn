@@ -7,14 +7,15 @@
   - [塘付村](yong-zhou/ling-ling/tang-fu-cun/index.md)
   - [赵家湾村](yong-zhou/ling-ling/zhao-jia-wan-cun/index.md)
   
-- 其他小工具
-  - [JWT](jwt/README.md)
+- 文献专栏
+  - [古村落里觅乡愁](literature/dream-in-ancient-villages.md)
   - [MessagePack](message-pack/index.md)
   - [Protocol Buffers](protocol-buffers/index.md)
 
 - 面试和算法
   - [面试问题和经验](interview/index.md)
   - [算法题](algorithm/index.md)
-  
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+
+- 社区和快速导航
+  - [WWW.OSSEZ.COM](https://www.ossez.com/)
+  - [DOCS.OSSEZ.COM](https://docs.ossez.com/#/)
