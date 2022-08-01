@@ -13,11 +13,11 @@ GitHub 上有关 CWIKIUS.CN 的项目：[https://github.com/cwikius-cn/docs-hn](
 
 您需要有一定的计算机知识才能完成 PR 的操作，如您不具备计算机版本控制或协同工作的相关知识，请使用下面的联系方式和我们联系：
 
-| 联系方式名称  | 联系方式  |
-|---|---|
-| 电子邮件  | [yucheng.hu@cwikius.cn](mailto:yucheng.hu@cwikius.cn)  |
-| 微信和QQ 同号  | 103899765  |
-| 社区论坛 | [https://www.ossez.com/c/us/travel/11](https://www.ossez.com/c/us/travel/11) |
+| 联系方式名称   | 联系方式                                                                           |
+|----------|--------------------------------------------------------------------------------|
+| 电子邮件     | [yucheng.hu@cwikius.cn](mailto:yucheng.hu@cwikius.cn)                          |
+| 微信和QQ 同号 | 103899765                                                                      |
+| 社区论坛     | [https://www.usreio.com/c/us/travel/11](https://www.usreio.com/c/us/travel/11) |
 
 ## 公众平台
 我们建议您通过社区论坛来和我们进行沟通，请关注我们公众平台上的账号
@@ -30,6 +30,10 @@ GitHub 上有关 CWIKIUS.CN 的项目：[https://github.com/cwikius-cn/docs-hn](
 
 ![](https://cdn.ossez.com/img/cwikius/cwikus-qr-toutiao.png)
 
+### GitHub
+GitHub 有关本项目的镜像，请参考：
+
+[https://github.com/cwikius-cn/docs-hn](https://github.com/cwikius-cn/docs-hn)
 
 ## 关于 CWIKIUS.CN 
 致力于对相关文化内容进行整理和传播。
