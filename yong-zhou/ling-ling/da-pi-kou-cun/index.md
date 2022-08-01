@@ -1,0 +1,25 @@
+#  靠山面水的诗意适居 —— 传统村落水口山镇大皮口村
+从零陵古城出发，沿 G322 行驶 33.7 公里到珠山镇，左拐进入X030线，再前行13公里，经水口山镇，过梅溪河，沿着一条水泥公路直行，约3公里,便到达水口山镇大皮口村。
+
+大皮口行政村，辖大皮口、坝口里、夏家、唐冲里、向阳、瓦窑头、黑山里、长冲坳等14个村民小组，村委会驻大皮口自然村。总面积5.67平方千米，
+总人口378户、1423人，有水田1200余亩、山林2700亩，我们到访的古村落属大皮口自然村。
+
+2018年12月，大皮口村被列入第五批中国传统村落名录。
+
+[chapter 01](chapter-01.md ':include')
+
+[chapter 02](chapter-02.md ':include')
+
+[chapter 03](chapter-03.md ':include')
+
+[chapter 04](chapter-04.md ':include')
+
+[chapter 05](chapter-05.md ':include')
+
+[chapter 06](chapter-06.md ':include')
+
+[chapter 07](chapter-07.md ':include')
+
+[chapter 08](chapter-08.md ':include')
+
+[chapter 09](chapter-09.md ':include')
