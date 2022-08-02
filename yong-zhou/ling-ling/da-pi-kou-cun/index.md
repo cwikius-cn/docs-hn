@@ -15,3 +15,5 @@
 [chapter 04](chapter-04.md ':include')
 
 [chapter 05](chapter-05.md ':include')
+
+[chapter 06](chapter-06.md ':include')
