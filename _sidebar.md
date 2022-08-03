@@ -4,6 +4,7 @@
 
 - 湘南地区古村落
   - [大皮口村](yong-zhou/ling-ling/da-pi-kou-cun/index.md)
+  - [芬香村](yong-zhou/ling-ling/fen-xiang-cun/index.md)
   - [毛坪里村](yong-zhou/ling-ling/mao-ping-li-cun/index.md)
   - [塘付村](yong-zhou/ling-ling/tang-fu-cun/index.md)
   - [赵家湾村](yong-zhou/ling-ling/zhao-jia-wan-cun/index.md)
