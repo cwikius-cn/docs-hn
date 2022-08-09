@@ -21,3 +21,5 @@
 [chapter 03](chapter-03.md ':include')
 
 [chapter 04](chapter-04.md ':include')
+
+[chapter 05](chapter-05.md ':include')
