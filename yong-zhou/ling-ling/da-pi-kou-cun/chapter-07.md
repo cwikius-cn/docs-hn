@@ -12,7 +12,7 @@
 
 柴君山东面的何仙观乡有“何仙姑成仙”的传说故事，柴君山一山两仙的传说故事至今仍在民间流传。
 
-![大皮口古村落背后的柴君山|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/7d2cafbab1d48ad6331de15d1fcf7720ab8e3cda.jpeg ':size=690')
+![大皮口古村落背后的柴君山|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/7d2cafbab1d48ad6331de15d1fcf7720ab8e3cda.jpeg ':size=690')
 
 
 ## 鲢鱼出洞传说

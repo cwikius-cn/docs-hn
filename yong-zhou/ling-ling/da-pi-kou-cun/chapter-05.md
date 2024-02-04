@@ -22,7 +22,7 @@
 
 向张连长开枪的土匪后来在湘桂边界被活捉，被人民政府镇压。
 
-![大皮口古村落边的张洪生烈士墓碑|690x375](https://cdn.usreio.com/discourse-uploads/original/1X/fbb3ab34b7bb27c0d022f9367b5e757c80186d9c.jpeg ':size=690')
+![大皮口古村落边的张洪生烈士墓碑|690x375](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/fbb3ab34b7bb27c0d022f9367b5e757c80186d9c.jpeg ':size=690')
 
 
 张洪生烈士是河北省青云县张家屯人，时任湖南省军区零陵军分区零陵县大队第一连副连长，生年无考。青山处处埋忠骨，何必马革裹尸还，张洪生烈士把生命献给了零陵这片土地。

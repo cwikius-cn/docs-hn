@@ -8,4 +8,4 @@
 
 充分利用柴君山资源。开发徒步游、骑车游、古建考察游等旅游形式。在各级政府的有力支持下，充分利用现代传播方式加大宣传，把民宿、风味小食、民俗有机结合起来，相信大皮口传统村落的发展会越来越好！
 
-![课题组在大皮口古村落采访|690x459](https://cdn.usreio.com/discourse-uploads/original/1X/d52d517f6a0a6fe2be85a6d7f475b17e826a471f.jpeg  ':size=690')
+![课题组在大皮口古村落采访|690x459](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/d52d517f6a0a6fe2be85a6d7f475b17e826a471f.jpeg  ':size=690')

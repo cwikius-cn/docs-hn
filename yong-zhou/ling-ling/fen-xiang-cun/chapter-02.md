@@ -2,7 +2,7 @@
 
 芬香行政村共有芬香、芭蕉口、潮水江、排头等16个村民小组，境内耕地面积1780亩，山林面积近6万亩，总人口440户1610人，村委会驻在芬香自然村。芬香村是零陵区最为偏远的山村之一，也是零陵区的41个省级贫困村之一，通过精准帮扶，2017年实现整村脱贫。
 
-![芬香村村委会大楼|690x331](https://cdn.usreio.com/discourse-uploads/original/1X/d3c2df19002fbea30e0a5d0a07cf7adb32af19c6.jpeg ':size=690')
+![芬香村村委会大楼|690x331](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/d3c2df19002fbea30e0a5d0a07cf7adb32af19c6.jpeg ':size=690')
 
 我们到访的主要是芬香自然村。芬香村之名原有几种称呼，一是叫“分香”，也就是“分香火”的意思。
 
@@ -36,4 +36,4 @@
 
 从这可知，芬香村一直都是瑶汉民族杂居在一地，村民可以自由迁徙，民族融合，共同发展。
 
-![芬香古村落局部图|690x459](https://cdn.usreio.com/discourse-uploads/original/1X/6fc363a40f06c873ac072c2734b330a6f8ab9338.jpeg ':size=690')
+![芬香古村落局部图|690x459](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/6fc363a40f06c873ac072c2734b330a6f8ab9338.jpeg ':size=690')

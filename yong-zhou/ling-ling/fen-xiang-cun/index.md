@@ -12,7 +12,7 @@
 
 该村于2016年被国家住房建部评为第四批“中国传统村落”。
 
-![芬香村村口游客中心|690x459](https://cdn.usreio.com/discourse-uploads/original/1X/f28c233cb6e2d1445abbbeeb00506d4a9398da7a.jpeg ':size=690')
+![芬香村村口游客中心|690x459](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/f28c233cb6e2d1445abbbeeb00506d4a9398da7a.jpeg ':size=690')
 
 [chapter 01](chapter-01.md ':include')
 

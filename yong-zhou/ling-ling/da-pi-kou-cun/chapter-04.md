@@ -10,9 +10,9 @@
 
 大皮口村坐东朝西，根据《杨氏族谱》上的大皮口村落图，清末村子的规模非常恢弘。
 
-![通往大皮口村的聚胜桥|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/b445ff91f2a6c0a49585e5e90ce16ccd74c59bab.jpeg ':size=690')
+![通往大皮口村的聚胜桥|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/b445ff91f2a6c0a49585e5e90ce16ccd74c59bab.jpeg ':size=690')
 
-![大皮口村落图-02|628x500](https://cdn.usreio.com/discourse-uploads/original/1X/b38a113588a1010a47b11769564eb8c17fabc344.jpeg ':size=628')
+![大皮口村落图-02|628x500](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/b38a113588a1010a47b11769564eb8c17fabc344.jpeg ':size=628')
 
 
 村南的柴君山水环村流入梅溪河，从小坝里岩洞引水入村的沟渠穿村而过，流入村前的田洞里。村北的水沟渠从另一山谷引入，从村后的田洞中环村而过，再流入村前的田洞里，这两沟渠符合谱书记叙，小坝沟渠不得超过五尺。
@@ -25,7 +25,7 @@
 
 大皮口村两路环绕成圆，村前村后各是一条笔直大路，大皮口村就像一根藤牵上的瓜。原村落有围墙围着，如今村落围墙早就没有了。
 
-![大皮口古村落布局图|690x368](https://cdn.usreio.com/discourse-uploads/original/1X/6eecb52aac13e7bb2fae3558af75399b4802f786.jpeg ':size=690')
+![大皮口古村落布局图|690x368](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/6eecb52aac13e7bb2fae3558af75399b4802f786.jpeg ':size=690')
 
 
 大皮口村古建筑保存较完好的是村南院落群，村民叫“五家堂”或“五房堂”，是杨开尧的儿子杨宏昭为他五个儿子杨太巍、杨太崑等人所建。祠堂内的烧纸盆有“光绪十九年夏”（1893）刻字，惜字塔有“光绪二十三年”（1897）刻字，由此可推知，五家堂应是清末同治与光绪年间的建筑。
@@ -36,9 +36,9 @@
 
 院落里的门窗、户对、门楣等都采用了或刻或塑的艺术造型，其艺术精到，形式多样，非常精美，具有很高观赏性。
 
-![大皮口古村落布局图-01|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/989682ecd5eae60f9d9918b4b579d2b6c7ed30df.jpeg ':size=690')
+![大皮口古村落布局图-01|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/989682ecd5eae60f9d9918b4b579d2b6c7ed30df.jpeg ':size=690')
 
-![大皮口古村落巷道|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/98e9a9dca1d6cc0923be5a679b7fc201c00be159.jpeg ':size=690')
+![大皮口古村落巷道|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/98e9a9dca1d6cc0923be5a679b7fc201c00be159.jpeg ':size=690')
 
 
 五家堂南侧的有一座门楼，但它不同其他村落的门楼。一般古村里的门楼会与村落建筑同一个方向，如永州江永上甘棠村的门楼就是这样的朝向，门楼要比主要建筑矮且窄小，只有两排梁架，对村内建筑起到一个防护作用。
@@ -51,7 +51,7 @@
 
 这种从门楼进入院内建筑的方式与道县楼田村的门楼布置有些相似。现门楼是近几年恢复建造，但基本规式没变，保存着原有的建筑格式。
 
-![大皮口古村落门楼|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/d46d93473b944b5d26dad8be4ede5dfc0229c386.jpeg ':size=690')
+![大皮口古村落门楼|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/d46d93473b944b5d26dad8be4ede5dfc0229c386.jpeg ':size=690')
 
 在五家堂屋后是一座建筑面积宽阔的祠堂，祠堂朝向五家堂纵道，面向西，祠堂正厅前是大面积混水照墙，照墙外是五家堂的横巷道，祠堂从两侧门进入。
 
@@ -61,12 +61,12 @@
 
 五家祠堂这种减柱之法和三、五、七架梁合为一整体的做法，既省工又省料，体现出重要的力学原理，有较高的科学研究价值。祠堂内置一圆形石盆和一座方形石质香炉。
 
-![大皮口古村落里祠堂马头墙|333x500](https://cdn.usreio.com/discourse-uploads/optimized/1X/258c62c34d117a74a6cdd5feb5b562d3eae97848_2_333x500.jpeg ':size=333')
+![大皮口古村落里祠堂马头墙|333x500](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/optimized/1X/258c62c34d117a74a6cdd5feb5b562d3eae97848_2_333x500.jpeg ':size=333')
 
 村子的北面据原村图是一座三进的四合院，环四合院而建的是几座独立成栋的房屋，四合院后有一座祠堂，这座祠堂较之五家堂的祠堂规模要小许多，时间早，于嘉庆二年所建，但其各种雕刻却美仑美奂。
 
 
-![大皮口古村落里的老祠堂|690x454](https://cdn.usreio.com/discourse-uploads/original/1X/46ae6e25ea1f0c4cf0dc13c40045715079b1eb12.jpeg ':size=690')
+![大皮口古村落里的老祠堂|690x454](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/46ae6e25ea1f0c4cf0dc13c40045715079b1eb12.jpeg ':size=690')
 
 大皮口传统村落另一独有的古建筑——惜字塔。惜字塔也叫“惜字楼”“焚字库”“焚纸楼”“字库”“圣迹亭”“敬字亭”“惜字宫”“惜字炉”等。它们用途相同——焚化字纸。
 
@@ -88,11 +88,11 @@
 
 坚同石室，坐镇江流。惟祈珍墨仁人，爱书吉士：从此文章入化，经锻炼以生新；争看文笔高簪，干云宵而直上。”大皮口村建的这座惜字塔，不单单是鼓励村里的后生“读书做官”，也是希望村民“敬惜字纸”，读书人写出“出神入化”的好文章。
 
-![大皮口古村落里的惜字塔|333x500](https://cdn.usreio.com/discourse-uploads/optimized/1X/ddce8e910cb6cb4189c583730b6d6af6412a531f_2_333x500.jpeg ':size=333')
+![大皮口古村落里的惜字塔|333x500](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/optimized/1X/ddce8e910cb6cb4189c583730b6d6af6412a531f_2_333x500.jpeg ':size=333')
 
-![大皮口古村落惜字塔上的碑文-01|548x500](https://cdn.usreio.com/discourse-uploads/original/1X/9b0e55b7104db4d68043b9ecf16abb72cfebdd44.jpeg ':size=548')
+![大皮口古村落惜字塔上的碑文-01|548x500](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/9b0e55b7104db4d68043b9ecf16abb72cfebdd44.jpeg ':size=548')
 
-![大皮口古村落惜字塔上的碑文-02|642x475](https://cdn.usreio.com/discourse-uploads/original/1X/7c08ea90ee1418eda4274f6407a56ded3462a8fa.jpeg ':size=642')
+![大皮口古村落惜字塔上的碑文-02|642x475](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/7c08ea90ee1418eda4274f6407a56ded3462a8fa.jpeg ':size=642')
 
 # 精美的建筑装饰艺术
 
@@ -100,7 +100,7 @@
 
 门楼上的石门框是展翅飞翔的凤凰缕空浮雕。
 
-![大皮口古村落门楼上的石浮雕|690x467](https://cdn.usreio.com/discourse-uploads/original/1X/03fd464a5cb1b0ba8179695b6eb0fe209f41899b.jpeg ':size=690')
+![大皮口古村落门楼上的石浮雕|690x467](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/03fd464a5cb1b0ba8179695b6eb0fe209f41899b.jpeg ':size=690')
 
 门框右上方双翅展飞的凤脚踏祥云，身披祥云，回目翘望，祥云围绕凤的四周。尖喙，月牙形眼睑，突出的圆形眼球；曲颈；半月形花冠上清晰的花纹，鸡头下两块肉胡凸凹有别；展开内侧的飞翅上粗羽毛管，根根可数；长长的两尾甩在祥云中；缕空的云团曲绕。
 
@@ -111,15 +111,15 @@
 门楼大门前的方石礅，采用阴阳两刻手法。上层刻花纹，下屋却阳刻花、叶，两种刻法用在同一件石器上。花叶的刻纹精细，形状略有不同，却又相连相环。
 
 
-![大皮口古村落门楼前方石礅上的雕花-01|690x427](https://cdn.usreio.com/discourse-uploads/original/1X/2b74724a56fe9542ba067cdf8684f4c36406fcb1.jpeg ':size=690')
+![大皮口古村落门楼前方石礅上的雕花-01|690x427](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/2b74724a56fe9542ba067cdf8684f4c36406fcb1.jpeg ':size=690')
 
-![大皮口古村落门楼前方石礅上的雕花-02|690x473](https://cdn.usreio.com/discourse-uploads/original/1X/b330e2f30d147098cd630b53962fbe1e6256e427.jpeg ':size=690')
+![大皮口古村落门楼前方石礅上的雕花-02|690x473](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/b330e2f30d147098cd630b53962fbe1e6256e427.jpeg ':size=690')
 
 祠堂内的四层柱础，下方上圆。比较特殊的是，柱础上面的石鼓直径要比中间两层的大，一粒一粒的圆鼓钉大小均称，间隔距离相等，密密麻麻的一圈。
 
 鼓面是相连花叶，面宽而茎细；中间一层为六棱形，下层的六棱形把棱角磨成圆弧，刻粗厚花瓣和动物；与地相接是素面正方形，这种造型独特而承重力又强的柱础，充分表现了我国民间匠人的智慧。
 
-![大皮口古村落门楼前的石柱础|629x419](https://cdn.usreio.com/discourse-uploads/original/1X/748b4921ac06daf8f4a2976ccfbe33f110c702cf.jpeg ':size=629')
+![大皮口古村落门楼前的石柱础|629x419](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/748b4921ac06daf8f4a2976ccfbe33f110c702cf.jpeg ':size=629')
 
 村中民居保存较大的石水缸，也叫太平缸，是用来蓄水防火。缸长190cm，高80cm，宽90cm，内空也有175cm长、73cm宽。
 
@@ -129,11 +129,11 @@
 
 麟面容微笑，眼睛里那种母性的慈祥，幼仔在母亲面前的憨萌娇态刻得非常逼真，这种石雕艺术充分表现了民间艺人高超的水准。祠堂的神龛雕这种仁兽，表达的是村民对美好生活的向往和祈盼。
 
-![大皮口古村落老祠堂内的神龛石雕-01|628x500](https://cdn.usreio.com/discourse-uploads/original/1X/0a3a41ee4ff356a3046f429598fe4194ff0775b0.jpeg ':size=628')
+![大皮口古村落老祠堂内的神龛石雕-01|628x500](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/0a3a41ee4ff356a3046f429598fe4194ff0775b0.jpeg ':size=628')
 
-![大皮口古村落老祠堂内的神龛石雕-02|559x500](https://cdn.usreio.com/discourse-uploads/original/1X/60f5b25d236dd0c123e9a7f0066978b8d8d02b42.jpeg ':size=559')
+![大皮口古村落老祠堂内的神龛石雕-02|559x500](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/60f5b25d236dd0c123e9a7f0066978b8d8d02b42.jpeg ':size=559')
 
-![大皮口古村落老祠堂内的神龛石雕-03|690x407](https://cdn.usreio.com/discourse-uploads/original/1X/3d668c7f7ff695955f16c02008df84da15147db6.jpeg ':size=690')
+![大皮口古村落老祠堂内的神龛石雕-03|690x407](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/3d668c7f7ff695955f16c02008df84da15147db6.jpeg ':size=690')
 
 另外村中还有两副旗杆石，分别立在村西进村的路口，村里人称这为“闱子”，在旗杆石上刻有“乾隆四十五年”字样，知此旗杆石立于清代中期。
 
@@ -141,15 +141,15 @@
 
 大皮口村两座祠堂里的木刻非常精美，选用承重的杂木，在粗厚驼峰上刻有各种动物。老祠堂的顶梁上的驼峰刻“狮子下地”；下梁的驼峰要大一倍，刻飞动貔貅；驼峰的木刻猛兽寓意深远，灵动猛兽的艺术美与梁柱承重的完美结合，高超地表现了湘南百姓的审美情趣与工匠智慧。
 
-![大皮口古村落老祠堂内的驼峰-02|634x402](https://cdn.usreio.com/discourse-uploads/original/1X/68fa5442d31f6be2aaadbc86d0c7ed79869d195e.jpeg ':size=634')
+![大皮口古村落老祠堂内的驼峰-02|634x402](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/68fa5442d31f6be2aaadbc86d0c7ed79869d195e.jpeg ':size=634')
 
-![大皮口古村落老祠堂内的驼峰-01|571x404](https://cdn.usreio.com/discourse-uploads/original/1X/ad2ba5068d1207075c1eeb7aa7b81789e8021bf8.jpeg ':size=571')
+![大皮口古村落老祠堂内的驼峰-01|571x404](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/ad2ba5068d1207075c1eeb7aa7b81789e8021bf8.jpeg ':size=571')
 
-![大皮口古村落老祠堂内的驼峰-03|612x369](https://cdn.usreio.com/discourse-uploads/original/1X/eb4a7f3e7045dc2e2ed42f7407735c122954e60f.jpeg ':size=612')
+![大皮口古村落老祠堂内的驼峰-03|612x369](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/eb4a7f3e7045dc2e2ed42f7407735c122954e60f.jpeg ':size=612')
 
-![大皮口古村落老祠堂内的驼峰-04|579x386](https://cdn.usreio.com/discourse-uploads/original/1X/7ce2c87e8f547f9aa93b9d12cafc7df2d80ec800.jpeg ':size=579')
+![大皮口古村落老祠堂内的驼峰-04|579x386](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/7ce2c87e8f547f9aa93b9d12cafc7df2d80ec800.jpeg ':size=579')
 
-![大皮口古村落老祠堂内的驼峰-05|690x387](https://cdn.usreio.com/discourse-uploads/original/1X/d047c14354e2b3fb6149a37d8d94f02fc5fac132.jpeg ':size=690')
+![大皮口古村落老祠堂内的驼峰-05|690x387](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/d047c14354e2b3fb6149a37d8d94f02fc5fac132.jpeg ':size=690')
 
 
 雄狮和貔貅这些猛兽，用于祠堂的梁架上，更有祛邪护家保平安的寓意，表达了建造者的良好愿望。
@@ -164,26 +164,26 @@
 
 外墙博风板上的彩塑，貔貅与悬鱼草纹理清晰，圆润的画面突现图案的逼真与生动。
 
-![大皮口古村落内建筑上的泥塑、彩绘-01|634x426](https://cdn.usreio.com/discourse-uploads/original/1X/0ece4d39affa03cf1bd7761e6c23b9de9803e57f.jpeg ':size=634')
+![大皮口古村落内建筑上的泥塑、彩绘-01|634x426](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/0ece4d39affa03cf1bd7761e6c23b9de9803e57f.jpeg ':size=634')
 
-![大皮口古村落内建筑上的泥塑、彩绘-02|587x429](https://cdn.usreio.com/discourse-uploads/original/1X/91f07bd4861913abfe997a5f355c58f214f91297.jpeg ':size=587')
+![大皮口古村落内建筑上的泥塑、彩绘-02|587x429](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/91f07bd4861913abfe997a5f355c58f214f91297.jpeg ':size=587')
 
-![大皮口古村落内建筑上的泥塑、彩绘-03|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/4d04f4faf771f17c28a43c0565a04683549e628a.jpeg ':size=690')
+![大皮口古村落内建筑上的泥塑、彩绘-03|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/4d04f4faf771f17c28a43c0565a04683549e628a.jpeg ':size=690')
 
 ## 各式马头墙
 三叠式的马头墙，高翘的墙角似鹰嘴向上突起，表现出庄重威严气势。
 
-![大皮口古村落内的三叠马头墙|690x459](https://cdn.usreio.com/discourse-uploads/original/1X/f9335f5b8be76eda91043e01136cad2cbb4a36f5.jpeg ':size=690')
+![大皮口古村落内的三叠马头墙|690x459](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/f9335f5b8be76eda91043e01136cad2cbb4a36f5.jpeg ':size=690')
 
 改良的人字封火墙。整体似人字墙，陡峭的“人”字头，下部两个墙角向上微翘，成一个抛物线。“人”字头上又砌成封火墙形，高高矗立在屋脊上，最上面塑以神兽向天仰望，这种封火墙造型把威严的气势展现得淋漓尽致。
 
-![大皮口古村落内的“人”字封火墙|690x343](https://cdn.usreio.com/discourse-uploads/original/1X/5bc26b2969d8cc5f0185329c79bdb3a4c19f342c.jpeg ':size=690')
+![大皮口古村落内的“人”字封火墙|690x343](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/5bc26b2969d8cc5f0185329c79bdb3a4c19f342c.jpeg ':size=690')
 
 
 有的封火墙的墙角泥塑各类神兽，以示守护村落。
 
-![大皮口古村落内的封火墙墙角泥塑神兽-01|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/a9f9760e792c8f44a22faefeefcbba1ce9468d3a.jpeg ':size=690')
+![大皮口古村落内的封火墙墙角泥塑神兽-01|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/a9f9760e792c8f44a22faefeefcbba1ce9468d3a.jpeg ':size=690')
 
-![大皮口古村落内的封火墙墙角泥塑神兽-02|380x499](https://cdn.usreio.com/discourse-uploads/original/1X/cf832c96e3f867a63135986e7b67cbd79e85ccc7.jpeg ':size=388')
+![大皮口古村落内的封火墙墙角泥塑神兽-02|380x499](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/cf832c96e3f867a63135986e7b67cbd79e85ccc7.jpeg ':size=388')
 
 大皮口传统村落里的石雕、木刻、泥塑艺术，可以说充分表现了永州民间艺术的最高水平。既有乡间绅士把自己对传统文化的理解表现在村落的建筑上，充分反映出民间乡贤绅士的文化自觉性，也有民间艺人对各种艺术手法的掌握，以及艺术作品中的文化内涵体现。

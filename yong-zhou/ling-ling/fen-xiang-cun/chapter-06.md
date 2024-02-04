@@ -16,4 +16,4 @@
 
 芬香村正向绿色美丽乡村迈步前进！
 
-![课题组在芬香村调研|690x459](https://cdn.usreio.com/discourse-uploads/original/1X/5d9d5135317b4439422e5bf8af4876cb27695eea.jpeg ':size=690')
+![课题组在芬香村调研|690x459](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/5d9d5135317b4439422e5bf8af4876cb27695eea.jpeg ':size=690')

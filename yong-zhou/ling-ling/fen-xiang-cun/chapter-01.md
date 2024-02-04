@@ -4,7 +4,7 @@
 
 芬香村的地理坐标为北纬25°52′52″，东经111°16′8″，海拔448米。村落朝向为坐北向南，前临田园，后依山势而建。一条石板铺设的古道从村边经过。整个村落掩映在青山绿树丛中。
 
-![芬香古村局部落俯瞰图|690x459](https://cdn.usreio.com/discourse-uploads/original/1X/80581fc15f33c64d6df55fe0b51845a348ee6c21.jpeg ':size=690')
+![芬香古村局部落俯瞰图|690x459](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/80581fc15f33c64d6df55fe0b51845a348ee6c21.jpeg ':size=690')
 
 
 村落东面是两座山岭，叫狮子岭、凤凰岭，翻过这两座山岭，再向东直达永州古城。村子的北面紧邻大庆坪乡文里村和枫木山村，到大庆坪乡政府6.5公里。
@@ -15,7 +15,7 @@
 
 村子的东南面与广西壮族自治区全州县东山瑶族自治乡豹子岭村相邻，村子西南的拉马岭与广西壮族自治区全州县白宝乡接壤，湖南广西两省由黄花岭所连。芬香村是永州与广西交界边线上的一个传统村落。
 
-![从大庆坪进入芬香村小石桥|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/cc5c984ee13e6725d84d1e9c679014dc660c5d16.jpeg ':size=690')
+![从大庆坪进入芬香村小石桥|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/cc5c984ee13e6725d84d1e9c679014dc660c5d16.jpeg ':size=690')
 
 
 芬香村坐落在一个小山谷盆地的边缘，东边的一些院落紧靠在山脚边，西边的主要院落则是沿着山坡向后山递层建设。

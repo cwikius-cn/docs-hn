@@ -49,7 +49,7 @@
 
 村后的高大树上挂满了红色布条，东面院落的树上也挂着红布条。
 
-![芬香村后的古树上挂满了游客的祈福布条|690x441](https://cdn.usreio.com/discourse-uploads/original/1X/2ab9f1f706e2acc31122612ca4e112d062eaf642.jpeg ':size=690')
+![芬香村后的古树上挂满了游客的祈福布条|690x441](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/2ab9f1f706e2acc31122612ca4e112d062eaf642.jpeg ':size=690')
 
 
 ## 摸鱼
@@ -62,11 +62,11 @@
 
 长期的约定，就形成了芬香村较有仪式感的的娱乐活动了。
 
-![芬香村的捕鱼工具-01|611x500](https://cdn.usreio.com/discourse-uploads/original/1X/b4302d319cf55c005d1cf26cffa242c931f432fb.jpeg ':size=611')
+![芬香村的捕鱼工具-01|611x500](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/b4302d319cf55c005d1cf26cffa242c931f432fb.jpeg ':size=611')
 
-![芬香村的捕鱼工具-02|461x500](https://cdn.usreio.com/discourse-uploads/original/1X/7c9a829b7f397c5749e0640be9a712871095380f.jpeg ':size=461')
+![芬香村的捕鱼工具-02|461x500](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/7c9a829b7f397c5749e0640be9a712871095380f.jpeg ':size=461')
 
-![芬香村的捕鱼工具-03|378x500](https://cdn.usreio.com/discourse-uploads/original/1X/21061f80a8704f14891ef9b415cba8cf22ca16b8.jpeg ':size=378')
+![芬香村的捕鱼工具-03|378x500](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/21061f80a8704f14891ef9b415cba8cf22ca16b8.jpeg ':size=378')
 
 ## 崇文重教
 

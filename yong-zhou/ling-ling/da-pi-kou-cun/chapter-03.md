@@ -7,7 +7,7 @@
 
 1949年后，梅溪河西又建新街，这条街成为当时零陵县西南最大的农贸集市。1950年代水口山为零陵县第十区，尔后改为水口山公社，1984年更名水口山乡，1986年经省政府批准水口山撤乡建镇。
 
-![通往大皮口村的聚胜桥|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/5f747bb74711785af99e6ead98fa0c72599a317d.jpeg ':size=690')
+![通往大皮口村的聚胜桥|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/5f747bb74711785af99e6ead98fa0c72599a317d.jpeg ':size=690')
 
 
 大皮口传统村落以汉代杨震为始祖。永州知事张灿为《梅溪杨氏族谱》写的《叙》：“杨氏巨族自汉杨震迄宋龟山（宋朝理学家杨时（1053—1130），亲承二程先生道脉，为求学留下‘程门立雪’之典故），有元季肇基梅溪而居。”“
@@ -36,4 +36,4 @@
 
 大皮口村因人丁的发展与自然灾害的原因，杨氏子弟搬至其它地方发展的有许多，但六百多年来，大皮口村作为零陵县水口山一带杨姓氏族的发祥地，一直都有杨姓氏族人居住在这里。
 
-![大皮口传统村落局部|690x460](https://cdn.usreio.com/discourse-uploads/original/1X/8688ec02b448bd6bd7dc9a21740059d94dd3b6c0.jpeg ':size=690')
+![大皮口传统村落局部|690x460](https://cdn.isharkfly.com/com-isharkfly-www/discourse-uploads/original/1X/8688ec02b448bd6bd7dc9a21740059d94dd3b6c0.jpeg ':size=690')
